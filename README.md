@@ -94,6 +94,3 @@ The dataset includes deliberately introduced exceptions such as duplicate invoic
 ## Skills Demonstrated
 
 Advanced Excel | Invoice Matching | Purchase Order Validation | Accounts Payable | Vendor Statement Reconciliation | Payment Reconciliation | Exception Analysis | Data Validation | Financial Reporting
-V. Kishore Kumar
-
-GitHub: https://github.com/KishoreKumar-DA
